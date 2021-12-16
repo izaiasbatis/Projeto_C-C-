@@ -1,12 +1,19 @@
 # Projeto_C/C++
 Criar projeto em C/C++ para trabalho acadêmico Unip PIM IV
 #include <stdio.h> // biblioteca padrão para usar printf, scanf etc...
+
 #include <stdlib.h> // biblioteca padrão
+
 #include <string.h> // biblioteca que permite acesso a manipulação de strings e uso de structs
+
 #include <locale.h> // biblioteca para permitir suporte a língua portuguesa
+
 #include <windows.h> // biblioteca
+
 #include <iostream> // biblioteca manipulaçã de arquivo
+	
 #include <fstream> // biblioteca manipulaçã de arquivo ler/escrever
+	
 #include <string> // biblioteca manipulaçã de strings
 using namespace std;
 
