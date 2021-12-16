@@ -1,4 +1,4 @@
-# Projeto_C/C++
+# Projeto_Cadastro_de_Pacientes_em_C/C++
 Criar projeto em C/C++ para trabalho acadêmico Unip PIM IV
 #include <stdio.h> // biblioteca padrão para usar printf, scanf etc...
 
